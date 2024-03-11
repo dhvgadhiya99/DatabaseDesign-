@@ -1,3 +1,16 @@
+<p style="text-align: center;"><strong><u>Assignment 1: Design Assignment<br /> Database design for Ritchie feed and Seed</u></strong></p>
+<p style="text-align: center;"><strong>Algonquin College</strong></p>
+<p style="text-align: center;"><strong>Database Analytics</strong></p>
+<hr />
+<p style="text-align: center;">Professor: Jim Myronyk</p>
+<p style="text-align: center;">Submitted By:</p>
+<p style="text-align: center;">Dhruv Gadhiya (041094397)</p>
+<hr />
+<p style="text-align: center;">&nbsp;</p>
+
+
+
+
 <p><strong><u>1. Major Business Requirements:</u></strong></p>
 
 <p><strong>Ritchie Feed &amp; Seed Inc</strong>. started as a supplier and now it is flourished in retail garden business having various branches in the city. On these branches there are number of employes working on different roles.</p>
