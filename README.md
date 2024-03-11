@@ -1,4 +1,4 @@
-<p style="text-align: center;"><strong><u>Assignment 1: Design Assignment<br /> Database design for Ritchie feed and Seed</u></strong></p>
+<p style="text-align: center;"><strong><u>Design Assignment<br /> Database design for Ritchie feed and Seed</u></strong></p>
 <p style="text-align: center;"><strong>Algonquin College</strong></p>
 <p style="text-align: center;"><strong>Database Analytics</strong></p>
 <hr />
