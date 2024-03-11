@@ -67,6 +67,8 @@
 <p><strong><u>&nbsp;</u></strong></p>
 <p><strong><u>&nbsp;</u></strong></p>
 <p><strong><u>ERD:</u></strong></p>
+<img align="center" alt="Coding" width="400" src="https://github.com/dhvgadhiya99/DatabaseDesign-/blob/main/Logical.png">
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
